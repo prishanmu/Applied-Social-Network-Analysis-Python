@@ -7,7 +7,8 @@ Assignments and related work from the Applied Social Network Analysis in Python 
 **Files in Repo**
 * README.md
 * references/Loading Graphs in NetworkX.ipynb
-* Assignment+1.ipnyb : Week 1 Assignment
+* references/Visualizing Graphs with NetworkX.ipynb
+* Assignment 1.ipnyb : Week 1 Assignment
 
 
 
