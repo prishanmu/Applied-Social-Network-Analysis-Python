@@ -10,6 +10,7 @@ Assignments and related work from the Applied Social Network Analysis in Python 
 * references/Visualizing Graphs with NetworkX.ipynb
 * Assignment+1.ipnyb : Week 1 Assignment
 * Assignment+2.ipnyb : Week 2 Assignment
+* Applied_Social_Network_Analysis_Quiz_3_Scratch_Work.ipynb : used NetworkX to help solve some problems in my Week 3 Quiz. This notebook shows how I created the graph and used functions imported from NetworkX to measure centrality. 
 
 
 
